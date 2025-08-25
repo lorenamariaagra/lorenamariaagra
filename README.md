@@ -1,6 +1,6 @@
 # Hi there, I'm Lorena!👋 
 👩🏻‍💻 Computer Science student @ UFCG, Brasil<br/>
-✔ My goal is to strengthen my development skills and explore new technologies.
+✔ My goal is to strengthen my development skills and explore new technologies.<br/>
 💭 I love to learn and build something new, I'm a curious person.<br/>
 
 ### Main skills
