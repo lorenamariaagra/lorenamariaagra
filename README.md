@@ -11,7 +11,6 @@
 
 ### Where to find me
 <div align="center">
-  <a href="mailto:lorena.maria.luna.almeida.agra@ccc.ufcg.edu.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" />
-  </a>
-</div
+   <a href="mailto:lorena.maria.luna.almeida.agra@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+
+</div>
